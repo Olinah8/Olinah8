@@ -29,6 +29,6 @@ Pour en savoir plus sur mes autres réalisations (applications web et mobiles), 
 
 ## Contact
 
-- 📧 Email :olinahharivelo@gmail.com
-- 🌐 Portfolio : [votre-site.com](https://olinah8.github.io/Portofolio_Olinah/)
-- 💼 LinkedIn : [votre-linkedIn.com](https://linkedin.com/in/harivelo-olinah)
+- 📧 Email : olinahharivelo@gmail.com
+- 🌐 Portfolio : [olinah](https://olinah8.github.io/Portofolio_Olinah/)
+- 💼 LinkedIn : [Olinah-Harivelo](https://linkedin.com/in/harivelo-olinah)
