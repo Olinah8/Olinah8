@@ -1,4 +1,4 @@
-# Bonjour, je suis Olinah 👋
+## Bonjour, je suis Olinah 👋
 
 ## Ingénieure en développement | Full Stack Web & Mobile
 
